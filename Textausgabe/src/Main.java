@@ -63,6 +63,7 @@ public class Main {
     System.out.println("  Everyday Saturday");
     System.out.println(" Everyday Saturday");
     System.out.println("  Everyday S-, everyday S-, everyday Saturday");
+    System.out.print("dsadsadsadsadasdas \n sdasdsadas");
 
 
     }
